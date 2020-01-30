@@ -67,3 +67,18 @@ body{
 
 
 }
+
+@media screen and (max-width: 700px) {
+    .mian-container {
+        height: 401px;
+        width: 270px;
+        background-color: #FB3640;
+        margin: 10px auto;
+        padding: 5px;
+        border-radius: 20px;
+        text-align: center;
+        /* margin-top: 150px; */
+        /* border-radius: 50px; */
+        padding: 14px;
+    }
+  }
